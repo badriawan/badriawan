@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have experience in Deep Learning, RL & IRL for Robotics, LLM and Implementation through ROS2 Middleware<br>
+I have experience in Deep Learning, RL and robotics implementation through ROS2 Middleware<br>
 
 
 ## 🌐 Socials:
